@@ -6,4 +6,4 @@
 Lorem ipsum.
 
 ### Links
- - [link 1](google.com)
+ - [link 1](google.com/)
